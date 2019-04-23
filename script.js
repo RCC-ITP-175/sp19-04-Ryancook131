@@ -3,3 +3,7 @@
 
 // prints "hi" in the browser's dev tools console
 console.log('hi');
+x="4"
+y="6"
+z=x+y
+i=z*x
