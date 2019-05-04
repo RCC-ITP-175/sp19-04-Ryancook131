@@ -7,3 +7,11 @@ x="4"
 y="6"
 z=x+y
 i=z*x
+
+///////////////////////////
+// INSTRUCTOR FEEDBACK
+//////////////////////////
+// Wrapping 4 and 6 in quotation marks can lead
+// to errors as "4" is a string where 4 is an integer.
+// This wouldn't cause issues in this program but can
+// in more complex ones.
